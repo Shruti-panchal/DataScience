@@ -1,7 +1,8 @@
-./dtenv
-./static/images/original/myadh.jpeg
-./static/images/uploaded/doc.jpeg
-./static/images/output/diff.png
-./static/images/output/original.png
-./static/images/output/tampered.png
-./static/images/output/thresh.png
+/dtenv
+/static/images/original/myadh.jpeg
+/static/images/uploaded/doc.jpeg
+/static/images/output/diff.png
+/static/images/output/original.png
+/static/images/output/tampered.png
+/static/images/output/thresh.png
+/.gitignore
