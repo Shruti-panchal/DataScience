@@ -1,5 +1,5 @@
-/DataScience/DocTour/static/images/original/*
-/DataScience/DocTour/static/images/uploaded/*
-/DataScience/DocTour/static/images/output/*
+/DocTour/static/images/original/*
+/DocTour/static/images/uploaded/*
+/DocTour/static/images/output/*
 /.gitignore
 /dtenv
