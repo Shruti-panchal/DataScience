@@ -9,3 +9,5 @@
 
 # Ignore the virtual environment
 /dtenv/
+
+/.gitignore
