@@ -24,7 +24,7 @@ def upload_file():
 
 @app.route('/compare')
 def compare_images():
-    original = cv2.imread('./static/images/original/myadh.jpeg')
+    original = cv2.imread('./static/images/original/myadh.png')
     tampered = cv2.imread('./static/images/uploaded/doc.jpeg')
     original = cv2.resize(original, (250, 160))
     tampered = cv2.resize(tampered, (250, 160))
