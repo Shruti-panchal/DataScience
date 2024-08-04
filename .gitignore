@@ -8,6 +8,6 @@
 /DocTour/static/images/output/*
 
 # Ignore the virtual environment
-/dtenv/
+DocTour/dtenv
 
 /.gitignore
