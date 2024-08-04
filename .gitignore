@@ -1,5 +1,11 @@
+# Ignore original images
 /DocTour/static/images/original/*
+
+# Ignore uploaded images
 /DocTour/static/images/uploaded/*
+
+# Ignore output images
 /DocTour/static/images/output/*
-/.gitignore
-/dtenv
+
+# Ignore the virtual environment
+/dtenv/
